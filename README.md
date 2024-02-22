@@ -22,4 +22,4 @@ Here, we have used NodeMCU to connect Robotic Arm to Arduino and **Connect all t
 |      Servo 6     |       D6      |
 
 ## Video
- <video loop src="media/robotic_arm.mp4">  video </video> 
+ <video loop src="medias/robotic_arm.webm">  video </video> 
