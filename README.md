@@ -25,6 +25,6 @@ Here, we have used NodeMCU to connect Robotic Arm to Arduino and **Connect all t
 
 
 
-| <img src="medias/arm.mp4">             | 
+| <img src="medias/armm.mp4">             | 
 | :----------------------------------: | 
 |          _URDF_           | 
